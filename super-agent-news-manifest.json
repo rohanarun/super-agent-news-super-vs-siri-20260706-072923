@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "engadget.com",
+      "title": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "source": "qz.com",
+      "title": "Apple is blocking its new Siri AI from EU iPhones after regulators rejected proposals",
+      "url": "https://qz.com/"
+    },
+    {
+      "source": "memeburn.com",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://memeburn.com/"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "news.mit.edu",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Siri|competitor_comparison|people comparing Super with Siri|2026-07-06T07:28:30.797152+00:00') -> architecture=workflow-command-center; AIDA Check: Attention(hero), Interest(proof & sources), Desire(media & motion), Action(CTA); Font Selection: Cabinet Grotesk; Hero Math Verification: clamp headline to 2\u20133 lines at max-width 1120px; Bento Density Verification: grid-auto-flow:dense present; GSAP Motion Selection: image-scale-fade-scroll + hover-physics; Label Sweep & Button Check: black primary CTA, white secondary CTA verified.",
+  "generated_at": "2026-07-06T07:29:30.621480+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair, source\u2011backed comparison for people deciding between Super and Siri. Siri excels as a voice\u2011first assistant embedded across Apple devices. Super is purpose\u2011built for repeated computer\u2011use workflows, with agents that operate real interfaces and reuse a computer-use cache so work compounds instead of repeating."
+}
